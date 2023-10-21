@@ -1,0 +1,2 @@
+# Second task from MidExam
+
